@@ -4,8 +4,6 @@ import Grid from "@mui/material/Unstable_Grid2/Grid2";
 import { Typography } from "@mui/material";
 import Avatar from "@mui/joy/Avatar";
 
-//www.youtube.com/watch?v=-pm-qPqNqgY   -> video del portfolio, bigote!!! 2:23:00 explica funcion de texto a la derecha, lo que va a recibir por porps el componente
-
 const TextToTheRight = (props) => {
   return (
     <Grid
